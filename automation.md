@@ -1,5 +1,3 @@
-:)
-
 The Master Transition Blueprint: Cisco Network Engineer to Hyperscaler SWE/SRE:
 
 
